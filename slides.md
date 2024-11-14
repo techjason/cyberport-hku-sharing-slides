@@ -329,6 +329,55 @@ highlighter: shiki
 
 ---
 
+<div class="w-full h-full">
+  <img src="/details.png"  alt="details" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/mrr.png"  alt="mrr" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+# I recommend ignoring everything else and just focus on LTV:CAC
+
+<div v-click>
+  <div class="bg-gray-100 p-4 rounded-lg mb-4">
+    <h3 class="font-bold">LTV (Lifetime Value)</h3>
+    <p>Revenue per customer over their entire relationship with your business</p>
+  </div>
+</div>
+
+<div v-click>
+  <div class="bg-gray-100 p-4 rounded-lg mb-4">
+    <h3 class="font-bold">CAC (Customer Acquisition Cost)</h3>
+    <p>Total cost to acquire one customer (marketing, sales, etc.)</p>
+  </div>
+</div>
+
+---
+
+# I recommend ignoring everything else and just focus on LTV:CAC
+
+<div>
+  <div class="bg-orange-100 p-4 rounded-lg">
+    <h3 class="font-bold">Why It Matters</h3>
+    <ul class="list-disc pl-4">
+      <li>Higher ratio = ability to outspend competitors</li>
+      <li>Predicts how big your business can scale</li>
+      <li>Creates sustainable competitive advantage</li>
+    </ul>
+  </div>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
 <div>
 <h3>1. Start with a Personal Pain Point</h3>
 
