@@ -342,6 +342,8 @@ highlighter: shiki
 
 ---
 
+# memo.cards
+
 <div class="w-full h-full">
   <img src="/mrr.png"  alt="mrr" class="h-full w-full object-cover" />
 </div>
@@ -621,7 +623,7 @@ highlighter: shiki
 ---
 
 <div class="grid grid-cols-2 gap-4">
-  <div v-click class="bg-blue-100 p-4 rounded-lg">
+  <div class="bg-blue-100 p-4 rounded-lg">
     <p class="font-bold">AI & Cloud</p>
     <p class="text-sm">Azure OpenAI Credits ($150k credits)</p>
     <p class="text-sm">Vercel Free Plan Hosting</p>
@@ -649,8 +651,47 @@ highlighter: shiki
     <p class="text-sm">Stripe for Startup Discounts</p>
     <p class="text-sm">Notion Pro for Startups (Free)</p>
     <p class="text-sm">Ahrefs</p>
+    <p class="text-sm">Cyberport!</p>
   </div>
 </div>
+
+<div class="qr-code"></div>
+
+---
+
+# How Cyberport Incubation Helped Us
+
+<div class="grid grid-cols-2 gap-4">
+  <div v-click class="bg-blue-100 p-4 rounded-lg">
+    <p class="font-bold">Financial Support</p>
+    <p class="text-sm">$500k funding support</p>
+    <p class="text-sm">Rent-free office space (very nice sea view 👍)</p>
+    <p class="text-sm">Cloud credits & tools (pretty dang awesome)</p>
+  </div>
+
+  <div v-click class="bg-green-100 p-4 rounded-lg">
+    <p class="font-bold">Network & Community</p>
+    <p class="text-sm">Connect with fellow founders</p>
+    <p class="text-sm">Access to mentors</p>
+    <p class="text-sm">Industry connections</p>
+  </div>
+
+  <div v-click class="bg-purple-100 p-4 rounded-lg">
+    <p class="font-bold">Business Development</p>
+    <p class="text-sm">Marketing support</p>
+    <p class="text-sm">Business matching</p>
+    <p class="text-sm">Investment opportunities</p>
+  </div>
+
+  <div v-click class="bg-orange-100 p-4 rounded-lg">
+    <p class="font-bold">Growth Resources</p>
+    <p class="text-sm">Professional services support</p>
+    <p class="text-sm">Training workshops</p>
+    <p class="text-sm">Market expansion guidance</p>
+  </div>
+</div>
+
+<div class="qr-code"></div>
 
 ---
 
@@ -669,6 +710,7 @@ highlighter: shiki
   <p>If you're interested in building for apps like this, we are currently hiring for full time, part time and internships at <a href="https://www.memo.cards">memo.cards</a>. More info at <a href="https://xon.so/careers">xon.so/careers</a></p>
   <p>I'm at most of the socials with: @thetechjason</p>
   <p><a href="https://techjason.com">techjason.com</a></p>
+  <p>Credit: Tweets, motivation, inspiration and learnings from the #buildinpublic and #indiehackers communities on X</p>
 </div>
 
 <div class="qr-code"></div>
