@@ -147,6 +147,55 @@ highlighter: shiki
 
 ---
 
+<div class="w-full h-full">
+  <img src="/memo-product-hunt/Concept 6.png"  alt="concept 6" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/memo-product-hunt/Concept 7.png"  alt="concept 6" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/memo-product-hunt/Concept 8.png"  alt="concept 8" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/memo-product-hunt/Concept 10.png"  alt="concept 10" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/memo-product-hunt/Concept 11.png"  alt="concept 11" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/memo-product-hunt/Concept 12.png"  alt="concept 12" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/memo-product-hunt/Concept 13.png"  alt="concept 13" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
 # Impact and Reach
 
 -   **User Base:**
@@ -301,6 +350,13 @@ highlighter: shiki
 
 <div class="w-full h-full">
   <img src="/hypno-birth.png"  alt="hypno-birth" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/puff-count.png"  alt="puff-count" class="h-full w-full object-cover" />
 </div>
 <div class="qr-code"></div>
 
