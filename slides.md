@@ -306,6 +306,28 @@ highlighter: shiki
 
 ---
 
+<div>
+  <h1 class="text-4xl font-bold mb-8">"Distribution is everything" vs "Product is everything"</h1>
+</div>
+
+<div v-click>
+  <div class="bg-gray-100 p-6 rounded-lg mb-6">
+    <h4 class="font-bold mb-2">For Commodity Products:</h4>
+    <p>Distribution matters most - product becomes just an execution game</p>
+  </div>
+</div>
+
+<div v-click>
+  <div class="bg-gray-100 p-6 rounded-lg">
+    <h4 class="font-bold mb-2">For Unique Products:</h4>
+    <p>Product matters most - distribution becomes just an execution game</p>
+  </div>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
 # Growth Formula
 
 <div class="flex flex-col gap-4">
@@ -344,6 +366,14 @@ highlighter: shiki
         <li>Independent thinking ability</li>
         <li>Vision for what should exist but doesn't yet</li>
     </ul>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>Write an idea (even if it's bad) every day to train the most important muscle</h1>
 </div>
 
 <div class="qr-code"></div>
