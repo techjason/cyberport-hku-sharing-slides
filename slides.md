@@ -273,6 +273,13 @@ highlighter: shiki
 
 ---
 
+<div class="w-full h-full">
+  <img src="/news.jpeg"  alt="news" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
 # Challenges and Lessons Learned
 
 | Category               | Challenges                                                                                        |
