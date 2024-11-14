@@ -299,6 +299,13 @@ highlighter: shiki
 
 ---
 
+<div class="w-full h-full">
+  <img src="/hypno-birth.png"  alt="hypno-birth" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
 # Growth Formula
 
 <div class="flex flex-col gap-4">
@@ -307,6 +314,36 @@ highlighter: shiki
     <h4 v-click>Bad app + killer marketing = Bad growth</h4>
     <h4 v-click>Good app + bad marketing = Existential crisis</h4>
     <h4 v-click>Bad app + bad marketing = Hell mode, depression, anxiety, PTSD</h4>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div v-click>
+    <h5 class="">Sam Altman on Founders and Ideas:</h5>
+    <blockquote class="pl-4 border-l-4 border-gray-300">
+        "The good founders are people who have ideas all the time."
+    </blockquote>
+</div>
+
+<div v-click>
+    <h4 class="mb-0">Key Insights:</h4>
+    <ul class="list-disc pl-6 text-sm">
+        <li>Founders need to generate new ideas weekly</li>
+        <li>Strong execution alone isn't enough</li>
+        <li>YC experiment: 20 strong teams without ideas all failed</li>
+    </ul>
+</div>
+
+<div v-click>
+    <h4 class="mb-0">Essential Founder Traits:</h4>
+    <ul class="list-disc pl-6">
+        <li>Intelligence to see opportunities</li>
+        <li>Creativity to imagine solutions</li>
+        <li>Independent thinking ability</li>
+        <li>Vision for what should exist but doesn't yet</li>
+    </ul>
 </div>
 
 <div class="qr-code"></div>
