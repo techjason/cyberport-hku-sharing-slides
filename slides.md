@@ -533,6 +533,20 @@ highlighter: shiki
 
 ---
 
+  <h3 class="font-bold">"Our app revolutionizes the way you do..."</h3>
+  <p v-click>perhaps instead tell what the app does</p>
+  <p v-click>what job does it automates</p>
+  <p v-click class="font-bold mt-2">"We build X and it automates Y that you hate doing"</p>
+  <p v-click class="mt-4">It saves you: X time</p>
+  <p v-click>Y money</p>
+  <p v-click>Z mental energy</p>
+  <p v-click class="mt-4 font-bold">Nothing more</p>
+  <p v-click class="font-bold">Nothing less</p>
+
+<div class="qr-code"></div>
+
+---
+
 <div>
   <div class="bg-amber-100 p-4 pt-1 rounded-lg mb-4">
     <h3 class="font-bold">Sam Altman on Founders and Ideas</h3>
