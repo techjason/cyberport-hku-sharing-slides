@@ -198,23 +198,19 @@ highlighter: shiki
 
 # Impact and Reach
 
--   **User Base:**
+-   Over 180,000 users from 30+ disciplines
 
-    -   Over 180,000 users from 30+ disciplines
-
-    -   Students from institutions like Oxford and Cambridge
+-   Students from institutions like Oxford and Harvard
 
 -   **Global Influence:**
 
-    -   Positive feedback from users in conflict zones
+    -   Scholarships for users in conflict zones such as Sudan and Ukraine
 
-    -   Helped users reclaim thousands of study hours
+    -   Helped users reclaim thousands of study hours including SEN, ADHD and Visually Impaired students
 
 -   **Community Growth:**
 
-    -   Generated over 10 million flashcards
-
-    -   Fostered a collaborative learning environment
+    -   Generated over 10 million flashcards and fostered evidence-based learning
 
 <div class="qr-code"></div>
 
@@ -227,6 +223,56 @@ highlighter: shiki
 | **Technical Hurdles**  | • Rewriting the app from scratch using Next.js<br>• Maintaining product quality with rapid growth |
 | **Business Obstacles** | • Rebranding and marketing efforts<br>• Handling server capacity and user demand                  |
 | **Personal Growth**    | • Balancing school and work<br>• Managing stress and avoiding burnout                             |
+
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/hypno-birth.png"  alt="hypno-birth" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/puff-count.png"  alt="puff-count" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div>
+  <h1 class="text-4xl font-bold mb-8">"Distribution is everything" vs "Product is everything"</h1>
+</div>
+
+<div v-click>
+  <div class="bg-gray-100 p-6 rounded-lg mb-6">
+    <h4 class="font-bold mb-2">For Commodity Products:</h4>
+    <p>Distribution matters most - product becomes just an execution game</p>
+  </div>
+</div>
+
+<div v-click>
+  <div class="bg-gray-100 p-6 rounded-lg">
+    <h4 class="font-bold mb-2">For Unique Products:</h4>
+    <p>Product matters most - distribution becomes just an execution game</p>
+  </div>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+# Growth Formula
+
+<div class="flex flex-col gap-4">
+    <h4 v-click>Good app + killer marketing = Great growth</h4>
+    <h4 v-click>Mid app + killer marketing = Great growth</h4>
+    <h4 v-click>Bad app + killer marketing = Bad growth</h4>
+    <h4 v-click>Good app + bad marketing = Existential crisis</h4>
+    <h4 v-click>Bad app + bad marketing = Hell mode, depression, anxiety, PTSD</h4>
+</div>
 
 <div class="qr-code"></div>
 
@@ -342,56 +388,6 @@ highlighter: shiki
     -   You validated your app idea
     -   Now it's time to pour more water in
 
-</div>
-
-<div class="qr-code"></div>
-
----
-
-<div class="w-full h-full">
-  <img src="/hypno-birth.png"  alt="hypno-birth" class="h-full w-full object-cover" />
-</div>
-<div class="qr-code"></div>
-
----
-
-<div class="w-full h-full">
-  <img src="/puff-count.png"  alt="puff-count" class="h-full w-full object-cover" />
-</div>
-<div class="qr-code"></div>
-
----
-
-<div>
-  <h1 class="text-4xl font-bold mb-8">"Distribution is everything" vs "Product is everything"</h1>
-</div>
-
-<div v-click>
-  <div class="bg-gray-100 p-6 rounded-lg mb-6">
-    <h4 class="font-bold mb-2">For Commodity Products:</h4>
-    <p>Distribution matters most - product becomes just an execution game</p>
-  </div>
-</div>
-
-<div v-click>
-  <div class="bg-gray-100 p-6 rounded-lg">
-    <h4 class="font-bold mb-2">For Unique Products:</h4>
-    <p>Product matters most - distribution becomes just an execution game</p>
-  </div>
-</div>
-
-<div class="qr-code"></div>
-
----
-
-# Growth Formula
-
-<div class="flex flex-col gap-4">
-    <h4 v-click>Good app + killer marketing = Great growth</h4>
-    <h4 v-click>Mid app + killer marketing = Great growth</h4>
-    <h4 v-click>Bad app + killer marketing = Bad growth</h4>
-    <h4 v-click>Good app + bad marketing = Existential crisis</h4>
-    <h4 v-click>Bad app + bad marketing = Hell mode, depression, anxiety, PTSD</h4>
 </div>
 
 <div class="qr-code"></div>
