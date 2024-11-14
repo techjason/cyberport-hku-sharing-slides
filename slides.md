@@ -196,6 +196,57 @@ highlighter: shiki
 
 ---
 
+<div class="mb-8 center-xy">
+<blockquote class="pl-4 border-l-4 border-gray-300">
+  <h1>A Note from Our Co-founders</h1>
+  <p>Until now, study tools for students have been scattered and inefficient. Flashcards, practice tests, note-taking apps, and AI assistants all serve a purpose, but juggling multiple platforms is cumbersome and expensive for modern learners.</p>
+</blockquote>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="mb-6 center-xy">
+<blockquote class="pl-4 border-l-4 border-gray-300">
+  <h1>The Student Mental Health Crisis</h1>
+  <p>Students are undergoing more stress than ever before. Over 4 in 5, or more specifically, 80% of college seniors have reported experiencing burnout during their undergraduate years.</p>
+  <p>In Hong Kong, secondary school students are under more pressure than ever before. 1.6% of secondary students attempted suicide in the last academic year, reflecting the severe impact of stress on students' mental health.</p>
+</blockquote>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="mb-8 center-xy">
+<blockquote class="pl-4 border-l-4 border-gray-300">
+  <h1>The Root Cause</h1>
+  <p>The problem is students were never taught how to learn. They were never taught how to study. They were never taught how to take notes. They were never taught how to memorize.</p>
+  <p>And we want to change that.</p>
+</blockquote>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="mb-8 center-xy">
+<blockquote class="pl-4 border-l-4 border-gray-300">
+  <h1>Our Journey</h1>
+  <p>We launched Memo to solve our own problem of spending hours making Anki flashcards in medical school and it quickly became the fastest-growing educational app. And soon we are building something bigger. 👀</p>
+  <br />
+  <p>📚 Now, we have over 60,000 active monthly users <br />
+  🚀 We're growing 10% month-over-month <br />
+  🌱 We are completely bootstrapped and profitable <br />
+  🌟 We are fast-paced, passionate and are 100% remote-friendly</p>
+</blockquote>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
 # Impact and Reach
 
 -   Over 180,000 users from 30+ disciplines
@@ -394,7 +445,7 @@ highlighter: shiki
 
 ---
 
-<div v-click>
+<div>
     <h5 class="">Sam Altman on Founders and Ideas:</h5>
     <blockquote class="pl-4 border-l-4 border-gray-300">
         "The good founders are people who have ideas all the time."
