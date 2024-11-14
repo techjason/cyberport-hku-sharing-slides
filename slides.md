@@ -34,19 +34,25 @@ highlighter: shiki
 
 ---
 
-# My Background
+<div>
+  <div class="bg-blue-100 p-4 pt-1 rounded-lg mb-4">
+    <h3 class="font-bold">Education</h3>
+    <ul class="list-disc pl-4">
+      <li>Third-year medical student at HKU</li>
+      <li>Passionate about technology and learning efficiency</li>
+    </ul>
+  </div>
+</div>
 
--   **Education:**
-
-    -   Third-year medical student at HKU
-
-    -   Passionate about technology and learning efficiency
-
--   **Early Interests:**
-
-    -   Fascinated by AI and productivity tools
-
-    -   Used Anki flashcards throughout high school and med school
+<div v-click>
+  <div class="bg-green-100 p-4 pt-1 rounded-lg mb-4">
+    <h3 class="font-bold">Early Interests</h3>
+    <ul class="list-disc pl-4">
+      <li>Fascinated by AI and productivity tools</li>
+      <li>Used Anki flashcards throughout high school and med school</li>
+    </ul>
+  </div>
+</div>
 
 <div class="qr-code"></div>
 
@@ -381,14 +387,14 @@ highlighter: shiki
 # Key Principles for Building Products
 
 <div v-click>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4">
+  <div class="bg-blue-100 p-4 pt-1 rounded-lg mb-4">
     <h3 class="font-bold">1. Start with a Personal Pain Point</h3>
     <p>Solve a problem you deeply understand</p>
   </div>
 </div>
 
 <div v-click>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4">
+  <div class="bg-green-100 p-4 pt-1 rounded-lg mb-4">
     <h3 class="font-bold">2. Iterate Quickly and Embrace Feedback</h3>
     <p>Build in public and listen to your users</p>
   </div>
@@ -399,14 +405,14 @@ highlighter: shiki
 ---
 
 <div>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg">
+  <div class="bg-purple-100 p-4 pt-1 rounded-lg">
     <h3 class="font-bold">3. Be Resilient and Adaptable</h3>
     <p>Challenges are opportunities in disguise</p>
   </div>
 </div>
 
 <div v-click>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4 mt-5">
+  <div class="bg-yellow-100 p-4 pt-1 rounded-lg mb-4 mt-5">
     <h3 class="font-bold">4. Start with Problem/Desire, Not App</h3>
     <ul class="list-disc pl-4">
       <li>No one cares about your app</li>
@@ -420,7 +426,7 @@ highlighter: shiki
 ---
 
 <div>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4">
+  <div class="bg-pink-100 p-4 pt-1 rounded-lg mb-4">
     <h3 class="font-bold">5. Talk About Outcomes, Not Features</h3>
     <ul class="list-disc pl-4">
       <li>No one wants to do stuff</li>
@@ -430,7 +436,7 @@ highlighter: shiki
 </div>
 
 <div v-click>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg">
+  <div class="bg-indigo-100 p-4 pt-1 rounded-lg">
     <h3 class="font-bold">6. Remove Screens Until You Can't Anymore</h3>
     <ul class="list-disc pl-4">
       <li>Do the steps for the user (if possible)</li>
@@ -444,7 +450,7 @@ highlighter: shiki
 ---
 
 <div>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4">
+  <div class="bg-red-100 p-4 pt-1 rounded-lg mb-4">
     <h3 class="font-bold">7. Don't Add Long Texts. Make UI Better</h3>
     <ul class="list-disc pl-4">
       <li>Needs long explanation? → Needs rework</li>
@@ -454,7 +460,7 @@ highlighter: shiki
 </div>
 
 <div v-click>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4">
+  <div class="bg-teal-100 p-4 pt-1 rounded-lg mb-4">
     <h3 class="font-bold">8. Launch MVP in 4 Weeks</h3>
     <ul class="list-disc pl-4">
       <li>One core action is all you need</li>
@@ -468,7 +474,7 @@ highlighter: shiki
 ---
 
 <div>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg">
+  <div class="bg-cyan-100 p-4 pt-1 rounded-lg">
     <h3 class="font-bold">9. Educate & Elevate During Onboarding</h3>
     <ul class="list-disc pl-4">
       <li>Not a time to bore users with features</li>
@@ -478,7 +484,7 @@ highlighter: shiki
 </div>
 
 <div v-click>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4 mt-5">
+  <div class="bg-emerald-100 p-4 pt-1 rounded-lg mb-4 mt-5">
     <h3 class="font-bold">10. Show Paywall After Onboarding</h3>
     <ul class="list-disc pl-4">
       <li>60% of subscribers do so during onboarding</li>
@@ -492,7 +498,7 @@ highlighter: shiki
 ---
 
 <div>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4">
+  <div class="bg-violet-100 p-4 pt-1 rounded-lg mb-4">
     <h3 class="font-bold">11. Stop Adding Features. Make UX Better</h3>
     <ul class="list-disc pl-4">
       <li>Best apps? They're easy to use</li>
@@ -502,7 +508,7 @@ highlighter: shiki
 </div>
 
 <div v-click>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg">
+  <div class="bg-fuchsia-100 p-4 pt-1 rounded-lg">
     <h3 class="font-bold">12. First 3 Months: Find & Solve Bottlenecks</h3>
     <ul class="list-disc pl-4">
       <li>Go top to bottom (App Store → app)</li>
@@ -514,7 +520,7 @@ highlighter: shiki
 ---
 
 <div>
-  <div class="bg-gray-100 p-4 pt-1 rounded-lg">
+  <div class="bg-rose-100 p-4 pt-1 rounded-lg">
     <h3 class="font-bold">13. 1%+ Subscribe? Now Bring More Users</h3>
     <ul class="list-disc pl-4">
       <li>You validated your app idea</li>
@@ -528,29 +534,37 @@ highlighter: shiki
 ---
 
 <div>
-    <h5 class="">Sam Altman on Founders and Ideas:</h5>
+  <div class="bg-amber-100 p-4 pt-1 rounded-lg mb-4">
+    <h3 class="font-bold">Sam Altman on Founders and Ideas</h3>
     <blockquote class="pl-4 border-l-4 border-gray-300">
-        "The good founders are people who have ideas all the time."
+      "The good founders are people who have ideas all the time."
     </blockquote>
+  </div>
 </div>
 
 <div v-click>
-    <h4 class="mb-0">Key Insights:</h4>
-    <ul class="list-disc pl-6 text-sm">
-        <li>Founders need to generate new ideas weekly</li>
-        <li>Strong execution alone isn't enough</li>
-        <li>YC experiment: 20 strong teams without ideas all failed</li>
+  <div class="bg-orange-100 p-4 pt-1 rounded-lg mb-4">
+    <h3 class="font-bold">Key Insights</h3>
+    <ul class="list-disc pl-4">
+      <li>Founders need to generate new ideas weekly</li>
+      <li>Strong execution alone isn't enough</li>
+      <li>YC experiment: 20 strong teams without ideas all failed</li>
     </ul>
+  </div>
 </div>
 
-<div v-click>
-    <h4 class="mb-0">Essential Founder Traits:</h4>
-    <ul class="list-disc pl-6">
-        <li>Intelligence to see opportunities</li>
-        <li>Creativity to imagine solutions</li>
-        <li>Independent thinking ability</li>
-        <li>Vision for what should exist but doesn't yet</li>
+---
+
+<div class="center-xy">
+  <div class="bg-red-100 p-4 pt-1 rounded-lg">
+    <h3 class="font-bold">Essential Founder Traits</h3>
+    <ul class="list-disc pl-4">
+      <li>Intelligence to see opportunities</li>
+      <li>Creativity to imagine solutions</li>
+      <li>Independent thinking ability</li>
+      <li>Vision for what should exist but doesn't yet</li>
     </ul>
+  </div>
 </div>
 
 <div class="qr-code"></div>
