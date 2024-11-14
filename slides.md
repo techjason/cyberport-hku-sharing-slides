@@ -4,7 +4,7 @@ highlighter: shiki
 ---
 
 <div class="relative z-10">
-    <h1>Building things <span class="gradient-text">people want</span> with AI whilst <span class="orange-gradient-text">in med school</span></h1>
+    <h1>Building <span class="gradient-text">things people want</span> with AI <span class="orange-gradient-text">whilst in med school</span></h1>
 </div>
 
 <div class="qr-code"></div>
@@ -183,7 +183,7 @@ highlighter: shiki
 
 ---
 
-<div v-click>
+<div>
 <h3>1. Start with a Personal Pain Point</h3>
 
     - Solve a problem you deeply understand
@@ -207,7 +207,7 @@ highlighter: shiki
 
 ---
 
-<div v-click>
+<div>
 <h3>4. AGAIN! Start with Problem/Desire, Not App</h3>
 
     -   No one cares about your app
@@ -233,7 +233,7 @@ highlighter: shiki
 
 ---
 
-<div v-click>
+<div>
 <h3>7. Don't Add Long Texts. Make UI Better</h3>
 
     -   Needs long explanation? → Needs rework
@@ -261,7 +261,7 @@ highlighter: shiki
 
 ---
 
-<div v-click>
+<div>
 <h3>10. Show Paywall After Onboarding</h3>
 
     -   60% of subscribers do so during onboarding
@@ -287,7 +287,7 @@ highlighter: shiki
 
 ---
 
-<div v-click>
+<div>
 <h3>13. 1%+ Subscribe? Now Bring More Users</h3>
 
     -   You validated your app idea
