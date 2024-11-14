@@ -695,8 +695,152 @@ highlighter: shiki
 
 ---
 
+<div class="center-xy text-center">
+  <h1>Finally ... 18 Lessons No One Told Me or Talks About in Startups</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
 <div class="center-xy">
-  <h1>Write an idea (even if it's bad) every day to train the most important muscle</h1>
+  <h1>1. Idea is just an idea, it's an illusion. Execution is everything.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>2. Building a product is 30% of the job. Distributing it, promoting it, selling it is also crucial.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>3. It's not You vs Competitors. It's You vs You. You are the maker and breaker of your startup.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>4. VC funding is not bad. The "Dictation" & "Hijacking" that comes with VC funds, that's a killer.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>5. Community is a must for any startup in any industry (B2B or B2C or D2C). It gives you the real insights.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>6. People buy outcome, transformation, happiness, luxury, and stories. Sell them that, not the "Product."</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>7. Your product's social media is not a notice board! Use it to share behind the scene work, the process, the struggle, and some wins.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>8. You're just a call away, to get something super insightful about your product. Talk straight to your customers.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>9. Fail fast. Your first attempt will fail miserably so build fast, fail fast and iterate quickly.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>10. Document every step of your journey on paper. This will help you not making 1 mistake twice.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>11. Great products have great teams! You can't do everything. You need to learn the art of team building.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>12. Product manifestation and visualization is a must. Don't code a single line until you build up to v5 of the product in your head.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>13. Take bets on people not ideas. All successful founders have 1 trait in common "resilience"</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>14. Books, CEO interviews, founder podcasts are the best mentors. You just need to pay attention & learn.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>15. Monetization is the fuel that won't last even 1 winter if you don't have "consistency" and "discipline" in your hut.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>16. Don't marry 1 idea. If somehow you get successful. Find an opportunity to take exit and repeat the hustle.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>17. Write an idea (even if it's bad) every day to train the most important muscle.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>18. Digest these first.</h1>
 </div>
 
 <div class="qr-code"></div>
