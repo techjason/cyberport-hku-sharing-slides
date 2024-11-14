@@ -547,6 +547,41 @@ highlighter: shiki
 
 ---
 
+<strong>The Bootstrap vs VC Debate</strong>
+
+| Category         | Bootstrapped                                                                      | VC-Funded                        |
+| ---------------- | --------------------------------------------------------------------------------- | -------------------------------- |
+| **Control**      | Complete autonomy over decisions                                                  | Answerable to investors & board  |
+| **Timeline**     | Can take 10+ years to build                                                       | Typically 5-7 year exit timeline |
+| **Risk**         | Can run multiple projects, pivot freely                                           | All eggs in one basket           |
+| **Examples**     | • Basecamp<br>• Mailchimp<br>• GitHub (initially)<br>• Atlassian (initially)      | Most Silicon Valley startups     |
+| **Growth**       | Organic, revenue-driven                                                           | Rapid scaling, burn rate focus   |
+| **Exit Options** | • Keep running indefinitely<br>• Profitable sale<br>• Optional late-stage funding | Must provide VC-level returns    |
+
+<div class="text-sm mt-4 text-gray-600">
+  *Many successful bootstrapped companies later took funding from a position of strength
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+| Category            | Bootstrapped                                                                     | VC-Funded                                         |
+| ------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------- |
+| **Tech Tools**      | • Mailchimp ($12B exit)<br>• Basecamp<br>• Zapier<br>• ConvertKit                | • Slack<br>• Zoom<br>• Notion<br>• Discord        |
+| **E-commerce**      | • Shopify (initially)<br>• Tuft & Needle<br>• MVMT Watches                       | • Amazon<br>• Warby Parker<br>• Dollar Shave Club |
+| **Content/Media**   | • Craigslist<br>• Imgur<br>• Smashing Magazine                                   | • Medium<br>• Substack<br>• Twitter               |
+| **Developer Tools** | • GitHub (initially)<br>• Atlassian (initially)<br>• WooCommerce                 | • GitLab<br>• Vercel<br>• MongoDB                 |
+| **Current Indies**  | • Levels.io (Nomad List)<br>• Pieter Levels (HeyFromFuture)<br>• Daniel Vassallo | • OpenAI<br>• Anthropic<br>• Midjourney           |
+
+<div class="text-sm mt-4 text-gray-600">
+  *Note: Many successful bootstrapped companies later took strategic funding to accelerate growth
+</div>
+
+<div class="qr-code"></div>
+
+---
+
 <div>
   <div class="bg-amber-100 p-4 pt-1 rounded-lg mb-4">
     <h3 class="font-bold">Sam Altman on Founders and Ideas</h3>
@@ -582,6 +617,40 @@ highlighter: shiki
 </div>
 
 <div class="qr-code"></div>
+
+---
+
+<div class="grid grid-cols-2 gap-4">
+  <div v-click class="bg-blue-100 p-4 rounded-lg">
+    <p class="font-bold">AI & Cloud</p>
+    <p class="text-sm">Azure OpenAI Credits ($150k credits)</p>
+    <p class="text-sm">Vercel Free Plan Hosting</p>
+    <p class="text-sm">Supabase Free Tier</p>
+
+  </div>
+
+  <div v-click class="bg-green-100 p-4 rounded-lg">
+    <p class="font-bold">Development Tools ($20k+ value)</p>
+    <p class="text-sm">GitHub Student Pack (Full Suite)</p>
+    <p class="text-sm">Cursor AI IDE</p>
+    <p class="text-sm">Linear</p>
+
+  </div>
+
+  <div v-click class="bg-purple-100 p-4 rounded-lg">
+    <p class="font-bold">Marketing & Analytics</p>
+    <p class="text-sm">PostHog (quite generous free tier)</p>
+    <p class="text-sm">Sentry</p>
+    <p class="text-sm">Resend/Loops.so</p>
+  </div>
+
+  <div v-click class="bg-orange-100 p-4 rounded-lg">
+    <p class="font-bold">Startup Essentials</p>
+    <p class="text-sm">Stripe for Startup Discounts</p>
+    <p class="text-sm">Notion Pro for Startups (Free)</p>
+    <p class="text-sm">Ahrefs</p>
+  </div>
+</div>
 
 ---
 
