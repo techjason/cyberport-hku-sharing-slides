@@ -98,6 +98,13 @@ highlighter: shiki
 
 ---
 
+<div class="w-full h-full">
+  <img src="/hkumed.jpeg"  alt="scholar" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
 <div class="w-full h-full flex items-center justify-center">
   <img src="/factrecallv2.png"  alt="factrecall" class="h-[450px] object-cover mx-auto my-auto" />
 </div>
