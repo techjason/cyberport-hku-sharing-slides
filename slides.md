@@ -696,7 +696,7 @@ highlighter: shiki
 ---
 
 <div class="center-xy text-center">
-  <h1>Finally ... 18 Lessons No One Told Me or Talks About in Startups</h1>
+  <h1>Finally ... 19 Lessons No One Told Me or Talks About in Startups</h1>
 </div>
 
 <div class="qr-code"></div>
@@ -841,6 +841,14 @@ highlighter: shiki
 
 <div class="center-xy">
   <h1>18. Digest these first.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy">
+  <h1>19. Finally. Build something people want.</h1>
 </div>
 
 <div class="qr-code"></div>
