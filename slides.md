@@ -378,116 +378,149 @@ highlighter: shiki
 
 ---
 
-<div>
-<h3>1. Start with a Personal Pain Point</h3>
+# Key Principles for Building Products
 
-    - Solve a problem you deeply understand
-
+<div v-click>
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4">
+    <h3 class="font-bold">1. Start with a Personal Pain Point</h3>
+    <p>Solve a problem you deeply understand</p>
+  </div>
 </div>
 
 <div v-click>
-<h3>2. Iterate Quickly and Embrace Feedback</h3>
-
-    - Build in public and listen to your users
-
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4">
+    <h3 class="font-bold">2. Iterate Quickly and Embrace Feedback</h3>
+    <p>Build in public and listen to your users</p>
+  </div>
 </div>
 
-<div v-click>
-<h3>3. Be Resilient and Adaptable</h3>
-
-    - Challenges are opportunities in disguise
-
-</div>
 <div class="qr-code"></div>
 
 ---
 
 <div>
-<h3>4. AGAIN! Start with Problem/Desire, Not App</h3>
-
-    -   No one cares about your app
-    -   Everyone cares about themselves
-
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg">
+    <h3 class="font-bold">3. Be Resilient and Adaptable</h3>
+    <p>Challenges are opportunities in disguise</p>
+  </div>
 </div>
 
 <div v-click>
-<h3>5. Talk About Outcomes, Not Features</h3>
-
-    -   No one wants to do stuff
-    -   Everyone wants to get stuff
-
-</div>
-
-<div v-click>
-<h3>6. Remove Screens Until You Can't Anymore</h3>
-
-    -   Do the steps for the user (if possible)
-    -   So they need to do less (not more)
-
-</div>
-
----
-
-<div>
-<h3>7. Don't Add Long Texts. Make UI Better</h3>
-
-    -   Needs long explanation? → Needs rework
-    -   Make it simpler → no explanation needed
-
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4 mt-5">
+    <h3 class="font-bold">4. Start with Problem/Desire, Not App</h3>
+    <ul class="list-disc pl-4">
+      <li>No one cares about your app</li>
+      <li>Everyone cares about themselves</li>
+    </ul>
+  </div>
 </div>
 
 <div class="qr-code"></div>
 
-<div v-click>
-<h3>8. Launch MVP in 4 Weeks</h3>
+---
 
-    -   One core action is all you need
-    -   Fast launch → fast results
-
+<div>
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4">
+    <h3 class="font-bold">5. Talk About Outcomes, Not Features</h3>
+    <ul class="list-disc pl-4">
+      <li>No one wants to do stuff</li>
+      <li>Everyone wants to get stuff</li>
+    </ul>
+  </div>
 </div>
 
 <div v-click>
-<h3>9. Educate & Elevate During Onboarding</h3>
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg">
+    <h3 class="font-bold">6. Remove Screens Until You Can't Anymore</h3>
+    <ul class="list-disc pl-4">
+      <li>Do the steps for the user (if possible)</li>
+      <li>So they need to do less (not more)</li>
+    </ul>
+  </div>
+</div>
 
-    -   Not a time to bore users with features
-    -   Teach them, you're the expert
+<div class="qr-code"></div>
 
+---
+
+<div>
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4">
+    <h3 class="font-bold">7. Don't Add Long Texts. Make UI Better</h3>
+    <ul class="list-disc pl-4">
+      <li>Needs long explanation? → Needs rework</li>
+      <li>Make it simpler → no explanation needed</li>
+    </ul>
+  </div>
+</div>
+
+<div v-click>
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4">
+    <h3 class="font-bold">8. Launch MVP in 4 Weeks</h3>
+    <ul class="list-disc pl-4">
+      <li>One core action is all you need</li>
+      <li>Fast launch → fast results</li>
+    </ul>
+  </div>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div>
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg">
+    <h3 class="font-bold">9. Educate & Elevate During Onboarding</h3>
+    <ul class="list-disc pl-4">
+      <li>Not a time to bore users with features</li>
+      <li>Teach them, you're the expert</li>
+    </ul>
+  </div>
+</div>
+
+<div v-click>
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4 mt-5">
+    <h3 class="font-bold">10. Show Paywall After Onboarding</h3>
+    <ul class="list-disc pl-4">
+      <li>60% of subscribers do so during onboarding</li>
+      <li>Others got rich this way, you'll too</li>
+    </ul>
+  </div>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div>
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg mb-4">
+    <h3 class="font-bold">11. Stop Adding Features. Make UX Better</h3>
+    <ul class="list-disc pl-4">
+      <li>Best apps? They're easy to use</li>
+      <li>More features isn't always better</li>
+    </ul>
+  </div>
+</div>
+
+<div v-click>
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg">
+    <h3 class="font-bold">12. First 3 Months: Find & Solve Bottlenecks</h3>
+    <ul class="list-disc pl-4">
+      <li>Go top to bottom (App Store → app)</li>
+      <li>Lift conversion rate of every step</li>
+    </ul>
+  </div>
 </div>
 
 ---
 
 <div>
-<h3>10. Show Paywall After Onboarding</h3>
-
-    -   60% of subscribers do so during onboarding
-    -   Others got rich this way, you'll too
-
-</div>
-
-<div v-click>
-<h3>11. Stop Adding Features. Make UX Better</h3>
-
-    -   Best apps? They're easy to use
-    -   More features isn't always better
-
-</div>
-
-<div v-click>
-<h3>12. First 3 Months: Find & Solve Bottlenecks</h3>
-
-    -   Go top to bottom (App Store → app)
-    -   Lift conversion rate of every step
-
-</div>
-
----
-
-<div>
-<h3>13. 1%+ Subscribe? Now Bring More Users</h3>
-
-    -   You validated your app idea
-    -   Now it's time to pour more water in
-
+  <div class="bg-gray-100 p-4 pt-1 rounded-lg">
+    <h3 class="font-bold">13. 1%+ Subscribe? Now Bring More Users</h3>
+    <ul class="list-disc pl-4">
+      <li>You validated your app idea</li>
+      <li>Now it's time to pour more water in</li>
+    </ul>
+  </div>
 </div>
 
 <div class="qr-code"></div>
