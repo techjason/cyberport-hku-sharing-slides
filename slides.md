@@ -18,7 +18,7 @@ highlighter: shiki
      <a href="https://trystudytok.com" target="_blank">trystudytok.com</a> (TikTok But For Studying)<br/>
      <a href="https://fiscusapp.com" target="_blank">fiscusapp.com</a> (AI-powered receipt management)<br/>
    <br/>
-    Third Year Medical Student, LKS Faculty of Medicine, HKU<br />InnoTech HSBC Scholar | Cyberport Incubatee<br /></p>
+    Fourth Year Medical Student, LKS Faculty of Medicine, HKU<br />InnoTech HSBC Scholar | Cyberport Incubatee<br /></p>
     <p class="text-gray-500">p.s press <KBD>j</KBD> to play flappy bird :)</p>
   </div>
   <img src="/avatar.png" alt="Jason Chan" class="w-36 h-36 rounded-full ml-4">
@@ -38,7 +38,7 @@ highlighter: shiki
   <div class="bg-blue-100 p-4 pt-1 rounded-lg mb-4">
     <h3 class="font-bold">Education</h3>
     <ul class="list-disc pl-4">
-      <li>Third-year medical student at HKU</li>
+      <li>Fourth-year medical student at HKU</li>
       <li>Passionate about technology and learning efficiency</li>
     </ul>
   </div>
@@ -285,20 +285,6 @@ highlighter: shiki
 
 ---
 
-<div class="w-full h-full">
-  <img src="/hypno-birth.png"  alt="hypno-birth" class="h-full w-full object-cover" />
-</div>
-<div class="qr-code"></div>
-
----
-
-<div class="w-full h-full">
-  <img src="/puff-count.png"  alt="puff-count" class="h-full w-full object-cover" />
-</div>
-<div class="qr-code"></div>
-
----
-
 <div>
   <h1 class="text-4xl font-bold mb-8">"Distribution is everything" vs "Product is everything"</h1>
 </div>
@@ -329,57 +315,6 @@ highlighter: shiki
     <h4 v-click>Bad app + killer marketing = Bad growth</h4>
     <h4 v-click>Good app + bad marketing = Existential crisis</h4>
     <h4 v-click>Bad app + bad marketing = Hell mode, depression, anxiety, PTSD</h4>
-</div>
-
-<div class="qr-code"></div>
-
----
-
-<div class="w-full h-full">
-  <img src="/details.png"  alt="details" class="h-full w-full object-cover" />
-</div>
-<div class="qr-code"></div>
-
----
-
-# memo.cards
-
-<div class="w-full h-full">
-  <img src="/mrr.png"  alt="mrr" class="h-full w-full object-cover" />
-</div>
-<div class="qr-code"></div>
-
----
-
-# I recommend ignoring everything else and just focus on LTV:CAC
-
-<div v-click>
-  <div class="bg-gray-100 p-4 rounded-lg mb-4">
-    <h3 class="font-bold">LTV (Lifetime Value)</h3>
-    <p>Revenue per customer over their entire relationship with your business</p>
-  </div>
-</div>
-
-<div v-click>
-  <div class="bg-gray-100 p-4 rounded-lg mb-4">
-    <h3 class="font-bold">CAC (Customer Acquisition Cost)</h3>
-    <p>Total cost to acquire one customer (marketing, sales, etc.)</p>
-  </div>
-</div>
-
----
-
-# I recommend ignoring everything else and just focus on LTV:CAC
-
-<div>
-  <div class="bg-orange-100 p-4 rounded-lg">
-    <h3 class="font-bold">Why It Matters</h3>
-    <ul class="list-disc pl-4">
-      <li>Higher ratio = ability to outspend competitors</li>
-      <li>Predicts how big your business can scale</li>
-      <li>Creates sustainable competitive advantage</li>
-    </ul>
-  </div>
 </div>
 
 <div class="qr-code"></div>
