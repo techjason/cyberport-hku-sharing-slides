@@ -15,8 +15,7 @@ highlighter: shiki
     <a href="https://memo.cards" target="_blank">memo.cards</a> (previously PDF2Anki - Cut Your Study Time by 50% with AI)<br />
     <a href="https://factrecall.com" target="_blank">factrecall.com</a> (A-Level Science Revision Tool + Notes) <br/>
      <a href="https://speechon.ai" target="_blank">speechon.ai</a> (AI-powered speech therapy for post-stroke patients)<br/>
-     <a href="https://trystudytok.com" target="_blank">trystudytok.com</a> (TikTok But For Studying)<br/>
-     <a href="https://fiscusapp.com" target="_blank">fiscusapp.com</a> (AI-powered receipt management)<br/>
+     <a href="https://healthmaxx.com" target="_blank">healthmaxx.com</a> (AI calorie tracker)<br/>
    <br/>
     Fourth Year Medical Student, LKS Faculty of Medicine, HKU<br />InnoTech HSBC Scholar | Cyberport Incubatee<br /></p>
     <p class="text-gray-500">p.s press <KBD>j</KBD> to play flappy bird :)</p>
